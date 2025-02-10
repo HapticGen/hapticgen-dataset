@@ -1,5 +1,8 @@
-# Publication
-Youjin Sung, Kevin John, Sang Ho Yoon, and Hasti Seifi. 2025. Haptic-Gen: Generative Text-to-Vibration Model for Streamlining Haptic Design. In Proceedings of Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '25). ACM, New York, NY, USA, 21 pages. https://doi.org/3706598.3713609
+# HapticGen Dataset
+This repository contains the dataset accompanying *HapticGen: Generative Text-to-Vibration Model for Streamlining Haptic Design*. For more details regarding this dataset, please refer to **Appendix D**, which includes the full datasheet.
+
+## Publication
+Youjin Sung, Kevin John, Sang Ho Yoon, and Hasti Seifi. 2025. HapticGen: Generative Text-to-Vibration Model for Streamlining Haptic Design. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, 23 pages. https://doi.org/10.1145/3706598.3713609
 
 # Field Descriptions
 - `filename`: The name of the haptic signal .wav file generated for the user.
